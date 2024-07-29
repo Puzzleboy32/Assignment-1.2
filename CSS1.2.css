@@ -1,0 +1,19 @@
+body{
+background-color: blue;
+}
+img{
+    width: 300px;
+    height: 400px;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
